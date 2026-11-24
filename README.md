@@ -150,14 +150,6 @@ python -m streamlit run app.py
 
 Open the local URL displayed in your terminal to access the dashboard.
 
-### Test visualizations separately
-
-To test charts using an existing `visual_data.json` without running the research pipeline:
-
-```bash
-streamlit run test.py
-```
-
 ## 📄 Generated Outputs
 
 The system generates the following files:
