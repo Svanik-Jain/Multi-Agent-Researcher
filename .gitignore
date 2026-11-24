@@ -1,0 +1,55 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Environment Variables / API Keys
+.env
+.env.*
+!.env.example
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Build and Distribution
+build/
+dist/
+*.egg-info/
+
+# Testing and Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE and Editor
+.vscode/
+.idea/
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+logs/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Temporary Files
+*.tmp
+*.bak
+*.swp
+
+# Generated Research Outputs
+research.md
+analysis.md
+fact_check_output.md
+final_report.md
+visual_data.json
+
+# Streamlit
+.streamlit/secrets.toml
