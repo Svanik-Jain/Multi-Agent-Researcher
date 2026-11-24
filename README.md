@@ -145,7 +145,7 @@ This executes the multi-agent research workflow and generates the research outpu
 ### Launch the Streamlit application
 
 ```bash
-streamlit run app.py
+python -m streamlit run app.py
 ```
 
 Open the local URL displayed in your terminal to access the dashboard.
