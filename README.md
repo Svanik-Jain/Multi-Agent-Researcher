@@ -104,11 +104,6 @@ Activate it:
 .\venv\Scripts\Activate.ps1
 ```
 
-**Git Bash**
-```bash
-source venv/Scripts/activate
-```
-
 ### 3. Install dependencies
 
 ```bash
