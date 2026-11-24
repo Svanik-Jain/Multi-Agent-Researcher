@@ -84,7 +84,7 @@ Multi-Agent-Researcher/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Multi-Agent-Researcher.git
+git clone https://github.com/Svanik-Jain/Multi-Agent-Researcher.git
 ```
 
 ```bash
