@@ -50,8 +50,6 @@ The project follows a multi-agent pipeline where each agent performs a specializ
 | Google Gemini | AI reasoning and content generation |
 | Tavily Search | Web research and information retrieval |
 | Streamlit | Interactive user interface |
-| BeautifulSoup | Webpage content extraction |
-| Requests | HTTP requests |
 | Python-dotenv | Environment variable management |
 | SVG | Chart rendering |
 
